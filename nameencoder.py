@@ -1,5 +1,5 @@
 def encode(num):
-    return f"{len(str(num))}+{num}"
+    return "{}+{}".format(len(str(num)), num)
 
 
 def decode(str_):
