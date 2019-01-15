@@ -1,0 +1,3 @@
+[submodule "ip_set/taobaoip"]
+	path = ip_set/taobaoip
+	url = https://github.com/qlcoder-oreo/taobaoip.git
